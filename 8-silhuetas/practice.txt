@@ -1,0 +1,5 @@
+Exercícios:
+
+cv.convexHull()
+cv.convexityDefects()
+cv.approxPolyDP()

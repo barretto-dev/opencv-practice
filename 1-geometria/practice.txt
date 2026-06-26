@@ -1,0 +1,10 @@
+Perfeitas para aprender threshold(), findContours() e drawContours().
+
+O que praticar:
+
+    - cv.threshold()
+    - cv.findContours()
+    - cv.contourArea()
+    - cv.arcLength()
+    - cv.approxPolyDP()
+    - Identificar círculo, triângulo, quadrado e pentágono.

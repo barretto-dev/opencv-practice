@@ -1,0 +1,7 @@
+Exercícios:
+
+CLAHE
+Canny
+operações morfológicas
+extração do contorno da rachadura
+cálculo do comprimento da trinca

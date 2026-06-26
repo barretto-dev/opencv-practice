@@ -1,0 +1,6 @@
+Exercícios:
+
+cv.cvtColor()
+cv.inRange()
+cv.bitwise_and()
+cv.findContours()

@@ -1,0 +1,6 @@
+Exercícios:
+
+- Contar moedas.
+- Calcular área.
+- Encontrar centro usando cv.moments().
+- Desenhar o círculo mínimo (cv.minEnclosingCircle()).

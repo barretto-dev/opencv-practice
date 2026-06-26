@@ -1,0 +1,6 @@
+Exercícios:
+
+Separar cada objeto.
+Encontrar o maior contorno.
+Caixa delimitadora (cv.boundingRect()).
+Caixa rotacionada (cv.minAreaRect()).

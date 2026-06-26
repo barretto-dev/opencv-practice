@@ -1,0 +1,6 @@
+Exercícios:
+
+abertura (MORPH_OPEN)
+fechamento (MORPH_CLOSE)
+erosão
+dilatação

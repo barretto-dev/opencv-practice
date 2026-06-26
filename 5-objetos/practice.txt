@@ -1,0 +1,6 @@
+Exercícios:
+
+Contar objetos.
+Medir área.
+Desenhar contornos.
+Encontrar centróides.
